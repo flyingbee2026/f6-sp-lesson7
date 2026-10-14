@@ -4,7 +4,7 @@ Helen's F.6 English SP lesson pack on the **True / False / Not Given** question 
 No vocabulary and no exam tips: the lesson is the exam questions only, each with the
 complete exam paragraph(s) printed underneath for students to read.
 
-## Current (revised) handout - six questions, 20 marks
+## Current handout - six questions, 20 marks (total stays 20)
 
 | # | Year | Paper | Q | Text / paragraphs | Marks | Answer | Correct % |
 |---|------|-------|---|-------------------|-------|--------|-----------|
@@ -33,13 +33,18 @@ Their answer tables and evidence lines are printed at the end of the revised tea
 
 ## Files
 
-* `F6_SP_Lesson_7_2012_2013_TFNG_Student_Version_Revised.docx` / `.pdf` - **current** student
-  handout (Helen's edit): 6 pages, one question per page, blank T / F / NG columns,
-  the exam paragraph strips underneath, total /20.
+* `F6_SP_Lesson_7_2012_2013_TFNG_Student_Version_Revised2.docx` / `.pdf` - **current** student
+  handout: 6 pages, one question per page, blank T / F / NG columns, the exam paragraph
+  strips underneath, total /20. Q1's printed marks now read 3 (one statement removed);
+  the captions of the column-straddling questions name the whole range (¶13-21, ¶7-9, ¶4-5);
+  and Q6 prints the whole of paragraph 4 - both of its column halves, including the
+  "Internet discussion boards" sentence that the earlier version left out.
+* `F6_SP_Lesson_7_2012_2013_TFNG_Student_Version_Revised.docx` / `.pdf` - Helen's own edit
+  of the handout (6 pages), kept for reference.
 * `F6_SP_Lesson_7_2012_2013_TFNG_Teacher_Version_Revised.docx` / `.pdf` - **current** answer
-  key matching that handout: answer and % for every statement plus a one-line evidence
-  quote with paragraph / line reference, marks at a glance, timing, common traps, and the
-  two unused questions.
+  key matching that handout (one question per page): answer and % for every statement plus a
+  one-line evidence quote with paragraph / line reference, marks at a glance, timing, the
+  common traps of this set, and the two unused questions.
 * `F6_SP_Lesson_7_2012_2013_TFNG_Student_Version.docx` / `.pdf` - first version
   (8 questions, 28 marks) kept for reference.
 * `F6_SP_Lesson_7_2012_2013_TFNG_Teacher_Version.docx` / `.pdf` - its teacher key.
